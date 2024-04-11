@@ -8,7 +8,7 @@ This plugin ensures that players cannot log in using accounts that are different
 
 ## Downloads
 
-1. go to the releases tab on the right, or visit the (spigotmc)[https://www.spigotmc.org/resources/mbhv-ip-protect.116095/] page.
+1. go to the releases tab on the right, or visit the [spigotmc](https://www.spigotmc.org/resources/mbhv-ip-protect.116095/) page.
 2. download the latest version, (this may change over time).
 
 ### Features
