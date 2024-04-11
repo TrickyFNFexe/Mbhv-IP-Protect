@@ -1,0 +1,9 @@
+name: mbhvip
+version: '${project.version}'
+main: org.best.mbhvip.Mbhvip
+api-version: '1.19'
+commands:
+  ipwhitelist:
+    description: Whitelist a player with an IP address
+    usage: /ipwhitelist <username> <ip>
+    permission: operators
