@@ -22,7 +22,6 @@ public final class Mbhvip extends JavaPlugin implements Listener, CommandExecuto
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
         getServer().getPluginManager().registerEvents(this, this);
         getCommand("ipwhitelist").setExecutor(this);
         loadPlayerIPs();
@@ -35,7 +34,6 @@ public final class Mbhvip extends JavaPlugin implements Listener, CommandExecuto
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
         savePlayerIPs();
     }
 
